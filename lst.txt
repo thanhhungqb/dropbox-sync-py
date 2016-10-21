@@ -1,0 +1,9 @@
+# this is a simple example of lst.txt file
+# each line contain one file/folder to be sync
+# line comment start with #
+# TAB is seperated character of two parts
+# empty line will be ommit
+
+dropbox-sync-py.py	/dropbox-sync-py.py
+lst.txt	/lst.txt
+#tmp	/admin
